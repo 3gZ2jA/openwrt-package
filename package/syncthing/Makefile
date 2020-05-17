@@ -26,11 +26,7 @@ ifeq ($(ARCH),aarch64)
 endif
 
 PKG_NAME:=syncthing
-<<<<<<< HEAD
-PKG_VERSION:=v1.4.0
-=======
 PKG_VERSION:=v1.5.0
->>>>>>> ed48095ad66c5f7f1b4af1b33c8818061b000152
 PKG_RELEASE:=2
 PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)-$(PKG_VERSION)
 PKG_SOURCE:=$(PKG_NAME)-linux-$(PKG_ARCH_SYNCTHING)-$(PKG_VERSION).tar.gz

@@ -163,6 +163,9 @@ msgstr "当选择的不是默认，则将此DNS强制设置为dnsmasq上游DNS�
 msgid "When custom, Please follow the format strictly:"
 msgstr "当自定义时，请严格遵循以下格式："
 
+msgid "Use ChinaDNS-NG"
+msgstr "使用ChinaDNS-NG"
+
 msgid "When checked, forced to be set to dnsmasq upstream DNS."
 msgstr "当勾选，则将强制设置为dnsmasq上游DNS。"
 
@@ -185,7 +188,7 @@ msgid "Resolver For The List Proxied"
 msgstr "解析被代理的域名列表"
 
 msgid "Requery DNS By %s"
-msgstr "通过%S请求DNS"
+msgstr "通过%s请求DNS"
 
 msgid "Forward To Socks Server"
 msgstr "转发至 Socks 服务器"
